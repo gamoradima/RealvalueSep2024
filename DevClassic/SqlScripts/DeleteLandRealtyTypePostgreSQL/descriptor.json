@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "e135a2ac-f8b6-7ec0-f285-ae45c7f2dea0",
+    "Name": "DeleteLandRealtyTypePostgreSQL",
+    "DBEngineType": 2,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1727795002000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
