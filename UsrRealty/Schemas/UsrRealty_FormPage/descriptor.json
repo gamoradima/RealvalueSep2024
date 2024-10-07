@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "12e2b5fa-435e-4668-bbad-8c535662e47d",
+    "Name": "UsrRealty_FormPage",
+    "ModifiedOnUtc": "\/Date(1728307366000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty form page"
+  }
+}

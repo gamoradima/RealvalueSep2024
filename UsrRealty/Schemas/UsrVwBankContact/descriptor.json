@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9c3ccf93-dc5a-41db-a46a-0643af315aa5",
+    "Name": "UsrVwBankContact",
+    "ModifiedOnUtc": "\/Date(1727965251000)\/",
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "UsrVwBankContact",
+    "DependsOn": []
+  }
+}
